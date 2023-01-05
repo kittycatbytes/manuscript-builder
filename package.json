@@ -1,5 +1,6 @@
 {
   "name": "manuscript-builder",
+  "homepage" : "https://manuscript-builder.web.app/",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
